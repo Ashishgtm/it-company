@@ -279,21 +279,19 @@ font-family: 'Times New Roman', Times, serif;
 
 }
 
+
 /*technology*/
 .technology{ 
-  display:flex;
-  padding-left: 25%;
-  padding-top: 1%;
-  padding-bottom: 2%;
+  -webkit-justify-content: center;
+  justify-content: center;
+  padding-top: 3%;
+  padding-bottom: 3%;
 }
 .technology .af{
-  width: 85px;
-  height: 85px;
   text-align: center;
- 
   color: rgba(8, 8, 8, 0.671);
   box-shadow: 0 0 20px 10px rgba(36, 27, 27, 0.05);
-  margin: 0 30px;
+  margin: 5px 30px;
   border-radius: 50%;
   position: relative;
   overflow: hidden;
