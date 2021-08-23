@@ -3,15 +3,11 @@
 /*swiper*/
 .swiper-container {
   width: 100%;
-  height: 100%;
-  
   }
 
   .swiper-slide {
     text-align: center;
-   
     background: rgba(0, 0, 0, 0.952);
-
     /* Center slide text vertically */
     display: -webkit-box;
     display: -ms-flexbox;
@@ -28,11 +24,10 @@
   }
 
   .swiper-slide img {
-   height: 760px;
-     
+   height: 760px;     
   }
   .text {
-    color: rgba(109, 105, 105, 0.712);
+    color: rgba(209, 207, 207, 0.712);
     font-size: 32px;
     font-family: 'Times New Roman', Times, serif;
     position: absolute;
@@ -43,12 +38,12 @@
     transform: translate(-50%, -50%);
     white-space: nowrap;
     width: 40%;
-    height: 120px;
     margin: 10px;
     border: 3px solid;
     border-color: rgb(192, 199, 206);
     background-color: transparent;
     padding-top: 0.6%;
+    padding-bottom: 0.6%;
   }
 
   /*who we are*/
@@ -119,8 +114,8 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
 .title-img img{
-  background-color: transparent;
-  border-radius: 18px;
+  background-color: rgba(0, 0, 0, 0.404);
+  border-radius: 25px;
 
 }
 
@@ -278,7 +273,6 @@ font-family: 'Times New Roman', Times, serif;
   height: 120px;
 
 }
-
 
 /*technology*/
 .technology{ 
