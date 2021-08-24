@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:wght@600&family=Ubuntu:wght@500&family=Poppins&display=swap');
 
 /*navigation bar */
-@media (max-width: 768px){
+@media (max-width: 767px){
     .navbar-toggler {
         display: block!important;
         float:right;
@@ -14,7 +14,6 @@
         display: none;
     }
 }
-
 .navbar {
     background: white;
     box-shadow: 0px 2px 18px rgba(60, 60, 60, 0.4);
