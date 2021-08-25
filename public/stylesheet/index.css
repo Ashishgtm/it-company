@@ -282,14 +282,14 @@ font-family: 'Times New Roman', Times, serif;
   color: rgba(8, 8, 8, 0.671);
   box-shadow: 0 0 20px 10px rgba(36, 27, 27, 0.05);
   margin: 5px 30px;
-  border-radius: 50%;
+  border-radius: 35%;
   position: relative;
   overflow: hidden;
   transition:transform 0.5s;
 }
 .technology .af .fab{
-  font-size: 30px;
-  line-height: 80px;
+  font-size: 26px;
+  line-height: 60px;
   position: relative;
   z-index: 10;
   transition: color 0.5s;
