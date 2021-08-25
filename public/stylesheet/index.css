@@ -25,8 +25,7 @@
 
   .swiper-slide img {
    height: 760px; 
-            display: block;
-        object-fit: cover;
+  
 
   }
   .text {
