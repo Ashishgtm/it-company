@@ -54,48 +54,76 @@ text-align:justify;
 
   
 }
-.vision-col{
-    padding-left: 10%;
-}
+
 .row-add{
    
-  padding-left: 18%;
-  background-color: rgba(240, 248, 255, 0.589);
+  padding: 16px;
+  background-color:rgba(0, 0, 0, 0.082);
+  border-radius: 50px;
+  text-align: center;
+  font-family: 'Besley', serif;
+  margin-left: 5%;
+  margin-top: 2%;
+    
   
 } 
+.row-imp{
+    padding-left: 9%;
+}
+.row-what{
+     
+  margin-top: 2%;
+  margin-bottom: 2%;
+
+}
+
+.about-img{
+    width: 450px;
+    height: 520px;
+    padding-top: 4%;
+    padding-bottom: 3%;
+
+}
+/*our customer*/
+.our-cust{
+    text-align: center;
+    background-color: rgba(138, 180, 154, 0.541);
+    font-size: 23px;
+    padding-top: 1%;
+    padding-bottom: 2%;
+    font-family:'Courier New', Courier, monospace;
+
+}
+
+
+
 
 /* what makes you */
 .what{
     padding-top: 2%;
-   padding-left: 18%; 
    font-size: 28px;
    font-family:'Courier New', Courier, monospace ;
    padding-bottom: 1%;
 }
 .maindiff{
-    padding-left: 18%; 
  font-weight:bold ;
  color: rgba(0, 0, 0, 0.527);
  padding-bottom: 1%;
 }
 .points{
-    padding-left: 20%; 
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 font-weight: bold;
 color: rgba(0, 0, 0, 0.664);
 padding-bottom: 1%;
 }
 .text-1{
-    padding-left: 18%; 
  font-weight: bold;
  color: rgba(0, 0, 0, 0.527);
 padding-bottom: 2%;
+padding-left: 4%;
 }
-.col-text1{
-    padding-left: 10%;
-}
-.maindiff-1{
 
+.maindiff-1{
  font-weight:bold ;
  color: rgba(0, 0, 0, 0.527);
  padding-bottom: 1%;
@@ -105,4 +133,19 @@ padding-bottom: 2%;
     color: rgba(0, 0, 0, 0.664);
     padding-bottom: 1%;
     padding-top: 1%;
+}
+.img-last{
+    width: 490px;
+    height: 520px;
+}
+.row-final{
+    padding-left: 10%;
+    margin-bottom: 4%;
+}
+.how-we{
+    padding-top: 8%;
+
+    font-size: 28px;
+   font-family:'Courier New', Courier, monospace ;
+   padding-bottom: 1%;
 }
