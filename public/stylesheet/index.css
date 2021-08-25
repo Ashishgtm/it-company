@@ -24,7 +24,10 @@
   }
 
   .swiper-slide img {
-   height: 760px;     
+   height: 760px; 
+            display: block;
+        object-fit: cover;
+
   }
   .text {
     color: rgba(209, 207, 207, 0.712);
